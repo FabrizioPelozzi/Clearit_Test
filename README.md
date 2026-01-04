@@ -43,6 +43,8 @@ DB_DATABASE=clearit_test_db
 DB_USERNAME=root
 DB_PASSWORD=
 
+Create a MySQL database named clearit_test_db
+
 
 Generate the Laravel application key:
 
